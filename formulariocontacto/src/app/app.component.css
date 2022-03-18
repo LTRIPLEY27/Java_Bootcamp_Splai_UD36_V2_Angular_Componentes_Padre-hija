@@ -1,0 +1,30 @@
+body {
+  margin: auto 0px;
+}
+
+h1 {
+  margin-left: 155px;
+  padding-bottom: 30px;
+}
+main {
+  margin: 10%;
+  width: 600px;
+  height: 400px;
+}
+
+label {
+  float: right;
+}
+
+#espan1, #espan2, #espan3, #espan4 {
+  padding-bottom: 30px;
+}
+
+input {
+  height: 25px;
+  width: 100%;
+}
+
+span {
+  color: red;
+}
