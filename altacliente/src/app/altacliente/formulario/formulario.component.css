@@ -6,3 +6,20 @@ main {
   width: 600px;
   height: 400px;
 }
+
+.row {
+  margin-bottom: 15px;
+}
+
+input {
+  height: 25px;
+}
+
+button {
+  margin-left: 50px;
+  background-color: rgb(253, 248, 242);
+  border-color: rgb(136, 137, 138);
+  padding : 2px;
+}
+
+
