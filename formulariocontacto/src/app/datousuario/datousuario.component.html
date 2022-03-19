@@ -1,0 +1,21 @@
+<body>
+
+  <main>
+    <div>
+      <table class="table">
+        <tr>
+          <th>Contacto : </th>
+          <th>Email : </th>
+          <th>Mensaje : </th>
+          <th>Respuesta : </th>
+        </tr >
+        <tr *ngFor="let contacto of contacto">
+          <td>{{contacto.nombre}}</td>
+          <td>{{contacto.email}}</td>
+          <td>{{contacto.mensaje}}</td>
+          <td>{{contacto.respuesta}}</td>
+        </tr>
+      </table>
+    </div>
+  </main>
+</body>

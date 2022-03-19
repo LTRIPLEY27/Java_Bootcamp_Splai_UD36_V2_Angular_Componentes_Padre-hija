@@ -7,9 +7,9 @@ h1 {
   padding-bottom: 30px;
 }
 main {
-  margin: 10%;
+  margin: 5%;
   width: 600px;
-  height: 400px;
+  height: 600px;
 }
 
 label {
@@ -27,4 +27,8 @@ input {
 
 span {
   color: red;
+}
+
+#respuesta {
+  margin-top: 50px;
 }
